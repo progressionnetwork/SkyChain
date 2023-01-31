@@ -1,7 +1,8 @@
 # SkyChain
  p2p decentralized E2E messenger with pretty Telegram-like UI design
 
-Available binaries of qt4, sources and pdf files of ui design.
+Available binaries of qt4, sources and psd files of ui design.
+Only ui design. Project not maintained anymore.
 Use in your projects as you wish.
 
 _Example:_
